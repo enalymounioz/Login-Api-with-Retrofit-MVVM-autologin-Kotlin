@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_lock
+id btn_login
+id btn_logout
+id btn_register
+id prgbar
+id txtInput_username
+id txtLay_pass_signup
+id txtLay_usernameAdd
+id txt_pass
+layout activity_logout
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string email
+string login
+string password
+string register
+string username
+style Theme.Login
+xml backup_rules
+xml data_extraction_rules

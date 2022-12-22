@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.enalymounioz.login.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.enalymounioz.login.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.enalymounioz.login.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.enalymounioz.login.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.enalymounioz.login.app-mergeDebugResources-40:\\layout\\activity_logout.xml",
+        "source": "C:\\Users\\evoreopoulou\\.gradle\\daemon\\7.4\\com.enalymounioz.login.app-main-43:\\layout\\activity_logout.xml"
+    }
+]
